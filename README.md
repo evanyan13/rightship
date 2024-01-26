@@ -1,1 +1,1 @@
-# rightship
+# NUS-RightShip Hackathon
